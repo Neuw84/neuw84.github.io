@@ -6,9 +6,11 @@ More content to be defined.... &#9786;
 
 ## Employment 
 
-* 2015/Present - Data Engineer at IK4-IKERLAN. 
-* 2018 - Datahack Lecturer (Spark and Kafka modules).
-* 2009 - Researcher at University of Basque Country.
+* 2015/Present - Data Engineer. [IK4-IKERLAN](https://www.ikerlan.es/). 
+* 2018 - Lecturer (Spark and Kafka modules). [Datahack](https://www.datahack.es/).
+* 2014/2015 - Researcher. University of Basque Country.
+* 2010/2014 - FPI predoctoral grant (Ministry of Science, Innovation and Universities). University of Basque Country
+* 2009 - Researcher. University of Basque Country.
 
 ## Education 
 
