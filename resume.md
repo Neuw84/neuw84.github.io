@@ -3,7 +3,7 @@
 ## Employment 
 
 * 2015 - Present - Data Engineer at IK4-IKERLAN. 
-* 2016 - Datahack Lecturer (Spark and Kafka modules).
+* 2018 - Datahack Lecturer (Spark and Kafka modules).
 * 2009 - Researcher at University of Basque Country. 
 
 ## Education 
