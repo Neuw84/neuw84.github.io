@@ -1,6 +1,6 @@
 # Let's this game flow!
 
-More content to be defined.... :smile:
+More content to be defined.... &#9786;
 
 # Resume
 
