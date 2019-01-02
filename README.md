@@ -1,13 +1,14 @@
 # Let's this game flow!
 
-More content to be defined.... 
+More content to be defined.... :smile:
 
 # Resume
 
 ## Employment 
 
-* 2015-Present - Data Engineer at IK4-IKERLAN. 
+* 2015/Present - Data Engineer at IK4-IKERLAN. 
 * 2016 - Datahack Lecturer (Spark and Kafka modules).
+* 2009 - Researcher at University of Basque Country.
 
 ## Education 
 
@@ -24,10 +25,9 @@ Currently my research interests are: IA, IoT ,BigData, Cloud and any kind of Dis
 
 See my [Google Academic](https://scholar.google.es/citations?user=RcnJ168AAAAJ&hl=en) profile.
 
-
 ### Other Stuff
 
-Worked many years as Event coordinator in Baskonia. 
+Worked many years as Access coordinator in [Baskonia](https://www.baskonia.com/). 
 
 # Contact 
 
