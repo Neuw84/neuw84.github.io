@@ -1,4 +1,5 @@
-# Angel Conde Manjon Personal Webpage
+# Let's this game flow
 
-Data Engineer at IK4-Ikerlan. Ph.D. Mainly focused on building digital platforms for the Industry 4.0. Current interests: IA, IoT, BigData , Cloud and any kind of Distributed System.
+[Resume](https://raw.githubusercontent.com/Neuw84/neuw84.github.io/master/resume.md)
 
+TBD.....
