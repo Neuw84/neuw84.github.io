@@ -8,13 +8,13 @@ More content to be defined.... &#9786;
 
 * 2015/Present - Data Engineer. [IK4-IKERLAN](https://www.ikerlan.es/). 
 * 2018 - Lecturer (Spark and Kafka modules). [Datahack](https://www.datahack.es/).
-* 2014/2015 - Researcher. University of Basque Country.
-* 2010/2014 - FPI predoctoral grant (Ministry of Science, Innovation and Universities). University of Basque Country
-* 2009 - Researcher. University of Basque Country.
+* 2014/2015 - Researcher. [University of Basque Country](https://www.ehu.eus/en/en-home).
+* 2010/2014 - FPI predoctoral grant (Ministry of Science, Innovation and Universities).  [University of Basque Country](https://www.ehu.eus/en/en-home).
+* 2009 - Researcher.  [University of Basque Country](https://www.ehu.eus/en/en-home).
 
 ## Education 
 
-* 2012-2016 - Ph.D in Computer Science. University of Basque Country. [Dissertation](http://hdl.handle.net/10810/18326)
+* 2012-2016 - Ph.D in Computer Science with research visits to the Cognitive Computation Group of the University of Illinois. University of Basque Country. [Dissertation](http://hdl.handle.net/10810/18326)
 * 2010-2012 - Master Degree in Advanced Computer Systems. University of Basque Country. [Dissertation](http://hdl.handle.net/10810/10131)
 * 2008-2010 - Barchelor Deegre in Computer Science. University of Basque Country.
 * 2005-2008 - Degree in Computer Science. University of Basque Country. 
