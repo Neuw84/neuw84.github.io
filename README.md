@@ -1,4 +1,4 @@
-# Let's this game flow!
+# Let's this game start!
 
 More content to be defined.... &#9786;
 
@@ -23,7 +23,7 @@ Info on Spanish "old" Degree system (3/5 years) can be found on [Wikipedia](http
 
 ## Research 
 
-Currently my research interests include: IA, IoT ,BigData, Cloud and any kind of Distributed System. 
+Currently, my research interests include: IA, IoT ,BigData, Cloud and any kind of Distributed System. 
 
 See my [Google Academic](https://scholar.google.es/citations?user=RcnJ168AAAAJ&hl=en) profile.
 
