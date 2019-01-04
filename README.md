@@ -23,7 +23,7 @@ Info on Spanish "old" Degree system (3/5 years) can be found on [Wikipedia](http
 
 ## Research 
 
-Currently, my research interests include: IA, IoT ,BigData, Cloud and any kind of Distributed System. 
+Currently, my research interests include: IA, IoT ,Big Data, Cloud and any kind of Distributed System. 
 
 See my [Google Academic](https://scholar.google.es/citations?user=RcnJ168AAAAJ&hl=en) profile.
 
