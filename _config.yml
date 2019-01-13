@@ -6,7 +6,7 @@ repository: Neuw84/neuw84.github.io
 name: Angel Conde Manjon
 title: Data Engineer at Ikerlan
 #email: Your email (optional)
-#website: Your website (optional)
+website: acmanjon.es
 
 # Social links
 twitter_username: neuw84
@@ -22,7 +22,7 @@ linkedin_username: acmanjon
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/me.png
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -33,7 +33,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Images
 
 # Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+ projects_title: Research #(Use this to override about projects section title)
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
