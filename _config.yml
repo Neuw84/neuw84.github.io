@@ -24,9 +24,9 @@ linkedin_username: acmanjon
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/me.jpg
 about_content: | # this will include new lines to allow paragraphs here you can use all markdown features!
-  Technology enthusiast that love to learn and work with the latest technologies. Currently developing Big Data platforms for the Industry 4.0. at [Ikerlan](www.ikerlan.es) with the latest Open Source software such as Mesos, Kafka or Spark.
+  Technology enthusiast that love to learn and work with the latest technologies. Currently developing Big Data platforms for the Industry 4.0. at [Ikerlan](www.ikerlan.es) with the latest Open Source technologies.
   
-  Technologies used everyday:
+  Technologies that I use everyday:
     * SpringBoot
     * Spark 
     * Kafka
@@ -35,7 +35,7 @@ about_content: | # this will include new lines to allow paragraphs here you can 
     * MQTT
     * AWS
     
-   When I find time, I like to give talks in conferences (e.g. Big Data Spain) or meetups (e.g. DataBeers Eus) &#9786;
+   When I find time, I like to give talks in conferences (e.g. [Big Data Spain](https://www.bigdataspain.org/)) or meetups (e.g. [DataBeers Eus](https://databeerseus.tumblr.com/)) &#9786;
    
    <mark>Research</mark>
    
@@ -45,7 +45,8 @@ about_content: | # this will include new lines to allow paragraphs here you can 
  
    
 # Projects Section
- #projects_title: Research 
+# projects_title: Research #(Use this to override about experience section title)
+
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
