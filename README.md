@@ -1,3 +1,3 @@
 # Angel Conde personal web page.
 
-Using GitHub pages and https://github.com/sproogen/modern-resume-theme theme
+Built using GitHub pages. Theme based on https://github.com/sproogen/modern-resume-theme 
