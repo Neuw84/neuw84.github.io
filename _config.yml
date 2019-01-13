@@ -67,5 +67,6 @@ sass:
 plugins:
  - jekyll-seo-tag
 
-site.google_analytics: UA-132400196-1
+# Google Analytics
+google_analytics: UA-132400196-1
 
