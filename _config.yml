@@ -33,7 +33,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Images
 
 # Projects Section
- projects_title: Research 
+ #projects_title: Research 
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
