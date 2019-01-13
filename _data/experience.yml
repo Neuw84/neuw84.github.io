@@ -1,19 +1,18 @@
-# Experience template
 - company: Ikerlan
   link: https://www.ikerlan.es
   job_title: Data Engineer
   dates: September 2015 - present
-  quote: > IK4-Ikerlan is a leading knowledge transfer technological centre providing competitive value to companies.
-  description: | # this will include new lines to allow paragraphs
-  #  Description of role
+  quote: > 
+  IK4-Ikerlan is a leading knowledge transfer technological centre providing competitive value to companies.
+  description: | 
   To be described.... &#9786; 
    
 - company: Datahack
   link: https://www.datahack.es
   job_title: Lecturer
   dates: January 2018 - March 2018
-  quote: > To be defined
-  description: | # this will include new lines to allow paragraphs
-  #  Description of role
+  quote: > 
+  To be defined.
+  description: | 
   Lecturer of the Spark and Kafka modules at Datahack Bilbao. 
   
