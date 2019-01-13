@@ -1,15 +1,14 @@
 # Education Template
 - name: University of Basque Country
-  dates: 2016 - 2019
+  dates: 2012 - 2016
   qualification: Ph.D in Computer Science 
   description: |
-    Cum Laude, International mention. Two research visits to the [Cognitive Computation Group](http://cogcomp.org/) of the University of Illinois.
+    Cum Laude, International mention with two research visits to the [Cognitive Computation Group](http://cogcomp.org/) of the University of Illinois. [Dissertation](http://hdl.handle.net/10810/18326)
 - name: University of Basque Country
   dates: 2010 - 2012
   qualification: Master Degree in Advanced Computer Systems
-  quote: >    
   description: | # this will include new lines to allow paragraphs
-    To be described...
+      To be described... [Dissertation](http://hdl.handle.net/10810/10131)
 - name: Deegre in Computer Science
   dates: 2005 - 2010
   qualification: Degree in Computer Science
