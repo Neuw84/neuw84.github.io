@@ -6,7 +6,7 @@ repository: Neuw84/neuw84.github.io
 name: Angel Conde Manjon
 title: Data Engineer at Ikerlan
 #email: Your email (optional)
-website: acmanjon.es
+website: https://www.ikerlan.es
 
 # Social links
 twitter_username: neuw84
@@ -49,7 +49,7 @@ more_content: | # this will include new lines to allow paragraphs
   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 
 # Build settings
 theme: modern-resume-theme  
