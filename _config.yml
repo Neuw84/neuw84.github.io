@@ -23,15 +23,18 @@ linkedin_username: acmanjon
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/me.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
-
+about_content: | # this will include new lines to allow paragraphs here you can use all markdown features!
+  Technology enthusiast that love to learn and work with the latest technologies. Currently developing Big Data platforms for the Industry 4.0. at [Ikerlan](www.ikerlan.es) with the latest Open Source software such as <mark>Mesos</mark>, <mark>Kafka</mark> or <mark>Spark</mark>.
+  
+  Technologies used everyday:
+    * SpringBoot
+    * Spark 
+    * Kafka
+    * Mesos 
+    * Kubernetes
+    * MQTT
+    * AWS
+    
 # Projects Section
  #projects_title: Research 
 
@@ -49,10 +52,10 @@ more_content: | # this will include new lines to allow paragraphs
   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: true
+#footer_show_references: true
 
 # Build settings
-theme: modern-resume-theme  
+#theme: modern-resume-theme  
 #(Use this is you are hosting your resume yourself)
 #remote_theme: sproogen/modern-resume-theme 
 #(Use this if you are hosting your resume on GitHub)
