@@ -4,18 +4,18 @@
   qualification: Ph.D in Computer Science 
   quote: >    
   description: | # this will include new lines to allow paragraphs
-    Cum Laude, International mention. Two research visits to the Cognitive Computation Group of the University of Illinois.
+    Cum Laude, International mention. Two research visits to the [Cognitive Computation Group](http://cogcomp.org/) of the University of Illinois.
 - name: University of Basque Country
   dates: 2010 - 2012
   qualification: Master Degree in Advanced Computer Systems
   quote: >    
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    To be described...
 - name: Deegre in Computer Science
   dates: 2005 - 2010
   qualification: Degree in Computer Science
   quote: >   
   description: | # this will include new lines to allow paragraphs
-    Info on Spanish "old" Degree system (3/5 years) can be found on [Wikipedia](https://en.wikipedia.org/wiki/Bachelor%27s_degree#Spain)
+  5 year University Degree. Info on Spanish "old" Degree system (3/5 years) can be found on [Wikipedia](https://en.wikipedia.org/wiki/Bachelor%27s_degree#Spain)
 
 
