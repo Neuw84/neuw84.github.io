@@ -52,9 +52,9 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: false
 
 # Build settings
-#theme: modern-resume-theme  
+theme: modern-resume-theme  
 #(Use this is you are hosting your resume yourself)
-remote_theme: sproogen/modern-resume-theme 
+#remote_theme: sproogen/modern-resume-theme 
 #(Use this if you are hosting your resume on GitHub)
 
 sass:
