@@ -3,7 +3,6 @@
   link: https://www.ikerlan.es
   job_title: Data Engineer
   dates: September 2015 - present
-  # Short description of the company (optional)
   quote: > IK4-Ikerlan is a leading knowledge transfer technological centre providing competitive value to companies.
   description: | # this will include new lines to allow paragraphs
   #  Description of role
@@ -13,8 +12,7 @@
   link: https://www.datahack.es
   job_title: Lecturer
   dates: January 2018 - March 2018
-  # Short description of the company (optional)
-  quote: >
+  quote: > To be defined
   description: | # this will include new lines to allow paragraphs
   #  Description of role
   Lecturer of the Spark and Kafka modules at Datahack Bilbao. 
