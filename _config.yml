@@ -37,9 +37,9 @@ about_content: | # this will include new lines to allow paragraphs here you can 
     
    When I find time, I like to give talks in conferences (e.g. [Big Data Spain](https://www.bigdataspain.org/)) or meetups (e.g. [DataBeers Eus](https://databeerseus.tumblr.com/)) &#9786;
    
-   <mark>Research</mark>
+   **Research**
    
-   Currently, my research interests include: IA, IoT ,Big Data, Cloud and any kind of Distributed System. 
+   Currently, my research interests include: *IA*, *IoT*, *Big Data*, *Cloud* and any kind of *Distributed System*. 
    
    See my [Google Academic](https://scholar.google.es/citations?user=RcnJ168AAAAJ&hl=en) profile.
  
@@ -57,9 +57,7 @@ about_content: | # this will include new lines to allow paragraphs here you can 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  When I’m not sat at my desk I am very active and spend most of my time outdoors. I do a lot a sports such as mountain biking, surfing, running and snowboarding. 
 
 # Footer
 #footer_show_references: true
