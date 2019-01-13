@@ -1,16 +1,10 @@
-- company: Royal Bank of Scotland
-  company: Simitive
-  link: www.simitive.com
-  dates: November 2015 - August 2017
-  job_title: Developer
+- company: Ikerlan 
+  company: Ikerlan 
+  link: www.ikerlan.es
+  dates: September 2015 - present 
+  job_title: Data Engineer
   description: |
     During my time at Simitive I worked as part of an agile team building our own in house web based software and
     also a large scale website for an international client. I gained experience working with a continuous integration
     workflow using tools such as <mark>Jenkins</mark> and working with Amazon Web Services for deployments. We built most
     of our software using <mark>Symfony</mark>, <mark>Backbone</mark>, <mark>Marionette</mark>, <mark>Vue</mark> and <mark>Vuex</mark>.
-
-    For 6 months I was working on delivering a standalone web product for an international client that services over
-    600,000 users. This has been built from the ground up using <mark>Symfony</mark> to provide a backend API and
-    <mark>Backbone</mark> for the front end. I also gained a lot of experience with <mark>Elasticsearch</mark> to provide
-    search functionality of millions of entities to the front end. During the project I spent time out of hours
-    communicating with the client, performing deployments and providing support.
