@@ -24,7 +24,7 @@ linkedin_username: acmanjon
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/me.jpg
 about_content: | # this will include new lines to allow paragraphs here you can use all markdown features!
-  Technology enthusiast that love to learn and work with the latest technologies. Currently developing Big Data platforms for the Industry 4.0. at [Ikerlan](www.ikerlan.es).
+  Technology enthusiast that love to learn and work with the latest technologies. Currently developing Big Data platforms for the Industry 4.0. at [Ikerlan](https://www.ikerlan.es/).
   
   Technologies that I use everyday:
     * SpringBoot
