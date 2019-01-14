@@ -1,19 +1,27 @@
 - company: Ikerlan 
   company: Ikerlan 
-  link: www.ikerlan.es
+  link: https://www.ikerlan.es/
   dates: September 2015 - present 
   job_title: Data Engineer
   description: |
-    In Ikerlan I worked as part of the Big Data Architectures team. I have been gaining  experience working with a continuous integration
+    In Ikerlan I work as part of the Big Data Architectures team. I have been gaining experience working with a continuous integration
     workflow using tools such as <mark>Jenkins</mark> and working with Amazon Web Services for deployments.... To be defined, extended and refined!
 
 - company: Datahack
   company: Datahack 
-  link: www.datahack.es
+  link: https://www.datahack.es/
   dates: January 2018 - March 2018 
   job_title: Lecturer 
   description: |
     Lecturer of [Kafka](https://kafka.apache.org/) and [Spark](https://spark.apache.org/) modules for the Big Data Analytics [Master](https://www.datahack.es/formacion/master/master-big-data-analytics/). 
+
+- company: Baskonia
+  company: Baskonia 
+  link: https://www.baskonia.com/
+  dates: January 2007 - December 2017
+  job_title: Acess Coordinator 
+  description: |
+    To be defined.... 
 
 - company: University of Basque Country
   company: University of Basque Country 
