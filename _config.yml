@@ -57,7 +57,9 @@ about_content: | # this will include new lines to allow paragraphs here you can 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  When I’m not sat at my desk I am very active and spend most of my time outdoors. I do a lot of sports, such as mountain biking, surfing, hiking, running or snowboarding. Apart from doing sports, I like to watch TV series 🍿 and landscape photography.
+  When I’m not sat at my desk I am very active and spend most of my time outdoors. I do a lot of sports, such as mountain biking, surfing, hiking, running or snowboarding. 
+  
+  Apart from doing sports, I like to watch TV series 🍿 and landscape photography.
   
   
   
