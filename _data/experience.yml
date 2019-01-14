@@ -4,9 +4,8 @@
   dates: September 2015 - present 
   job_title: Data Engineer
   description: |
-    In Ikerlan I work as part of the Big Data Architectures team. I have been gaining experience working with a continuous integration
-    workflow using tools such as <mark>Jenkins</mark> and working with Amazon Web Services for deployments.... To be defined, extended and refined!
-
+    In Ikerlan I work as part of the Big Data Architectures team. I have been architecting and developing Big Data platforms both on-premises and on-cloud using technologies such as <mark>Kafka</mark> and <mark>Spark</mark>.
+    Moreover, I have been helping on the deployment of a Continous Integration culture within the team using tools such as <mark>Jenkins</mark> and <mark>Sonarqube</mark>. More to be described. 
 - company: Datahack
   company: Datahack 
   link: www.datahack.es/
