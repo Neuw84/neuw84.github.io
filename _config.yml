@@ -24,7 +24,7 @@ linkedin_username: acmanjon
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/me.jpg
 about_content: | # this will include new lines to allow paragraphs here you can use all markdown features!
-  Technology enthusiast that love to learn and work with the latest technologies. Currently developing Big Data platforms for the Industry 4.0. at [Ikerlan](www.ikerlan.es) with the latest Open Source technologies.
+  Technology enthusiast that love to learn and work with the latest technologies. Currently developing Big Data platforms for the Industry 4.0. at [Ikerlan](www.ikerlan.es).
   
   Technologies that I use everyday:
     * SpringBoot
@@ -35,7 +35,7 @@ about_content: | # this will include new lines to allow paragraphs here you can 
     * MQTT
     * AWS
     
-   When I find time, I like to give talks in conferences (e.g. [Big Data Spain](https://www.bigdataspain.org/)) or meetups (e.g. [DataBeers Eus](https://databeerseus.tumblr.com/)) &#9786;
+   When I find time, I like to give talks at conferences (e.g. [Big Data Spain](https://www.bigdataspain.org/)) or meetups (e.g. [DataBeers Eus](https://databeerseus.tumblr.com/)) &#9786;
    
    **Research**
    
@@ -57,7 +57,12 @@ about_content: | # this will include new lines to allow paragraphs here you can 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  When I’m not sat at my desk I am very active and spend most of my time outdoors. I do a lot a sports such as mountain biking, surfing, running and snowboarding. 
+  When I’m not sat at my desk I am very active and spend most of my time outdoors. I do a lot of sports, such as mountain biking, surfing, hiking, running or snowboarding. Apart from doing sports, I like to watch TV series 🍿 and landscape photography.
+  
+  
+  
+  
+
 
 # Footer
 #footer_show_references: true
