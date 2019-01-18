@@ -29,10 +29,10 @@ about_content: | # this will include new lines to allow paragraphs here you can 
   Technologies that I use everyday:
     * ![SpringBoot](assets/spring-boot-logo.png){:height="36px"}
     * ![Spark](assets/spark-logo-hd.png){:height="40px"} 
-    * ![Kafka](assets/kafka_logo.png){:height="40px"}
-    * ![Mesos](assets/images.png){:height="34px"}
-    *  ![Kubernetes](assets/kubernetes-horizontal-color.png){:height="30px"}
-    *  ![MQTT](assets/MQTT.png){:height="38px"}
+    * ![Kafka](assets/kafka_logo.png){:height="36px"}
+    * ![Mesos](assets/images.png){:height="32px"}
+    * &nbsp;![Kubernetes](assets/kubernetes-horizontal-color.png){:height="30px"}
+    * &nbsp;![MQTT](assets/MQTT.png){:height="38px"}
     
    Moreover, I like to give talks at conferences (e.g. [Big Data Spain](https://www.bigdataspain.org/)) or meetups (e.g. [DataBeers Eus](https://databeerseus.tumblr.com/)) when I have time &#9786;.
    
