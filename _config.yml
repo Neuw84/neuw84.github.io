@@ -33,7 +33,7 @@ about_content: | # this will include new lines to allow paragraphs here you can 
     <div class="col-xs-6 col-md-4 col-lg-4"><img src="assets/kafka_logo.png" alt="Kafka" ></div>
     <div class="col-xs-6 col-md-4 col-lg-4"><img src="assets/images.png" alt="Mesos"></div>
     <div class="col-xs-6 col-md-4 col-lg-4"><img src="assets/kubernetes-horizontal-color.png" alt="Kubernetes" ></div>
-    <div class="col-xs-6 col-md-4 col-lg-4"><img src="assets/MQTT.png" alt="MQTT"></div>
+    <div class="col-xs-6 col-md-4 col-lg-4 w"><img src="assets/MQTT.png" alt="MQTT"></div>
   </div>
     
     
