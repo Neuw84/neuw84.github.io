@@ -27,10 +27,9 @@ about_content: | # this will include new lines to allow paragraphs here you can 
   I am a technology enthusiast that loves to learn and work with the latest technologies. Currently developing Big Data platforms for the Industry 4.0. at [Ikerlan](https://www.ikerlan.es/).
   
   Technologies that I use everyday:
-    * SpringBoot ![SpringBoot](assets/spring-boot-logo.png){:height="36px"}.
-
-    * Spark 
-    * Kafka
+    * ![SpringBoot](assets/spring-boot-logo.png){:height="36px"}
+    * ![Spark](assets/spark-logo-hd.png){:height="36px"} 
+    * ![Kafka](assets/kafka_icon.png){:height="36px"}.
     * Mesos 
     * Kubernetes
     * MQTT
