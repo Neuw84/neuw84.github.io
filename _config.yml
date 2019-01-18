@@ -27,12 +27,12 @@ about_content: | # this will include new lines to allow paragraphs here you can 
   I am a technology enthusiast that loves to learn and work with the latest technologies. Currently developing Big Data platforms for the Industry 4.0. at [Ikerlan](https://www.ikerlan.es/).
   
   Technologies that I use everyday:
-    * ![SpringBoot](assets/spring-boot-logo.png){:height="36px"}
+    * ![SpringBoot](assets/spring-boot-logo.png){:height="34px"}
     * ![Spark](assets/spark-logo-hd.png){:height="40px"} 
     * ![Kafka](assets/kafka_logo.png){:height="36px"}
     * ![Mesos](assets/images.png){:height="30px"}
     * &nbsp;![Kubernetes](assets/kubernetes-horizontal-color.png){:height="28x"}
-    * &nbsp;![MQTT](assets/MQTT.png){:height="28px"}
+    * &nbsp;![MQTT](assets/MQTT.png){:height="26px"}
     
    Moreover, I like to give talks at conferences (e.g. [Big Data Spain](https://www.bigdataspain.org/)) or meetups (e.g. [DataBeers Eus](https://databeerseus.tumblr.com/)) when I have time &#9786;.
    
