@@ -44,9 +44,7 @@ about_content: | # this will include new lines to allow paragraphs here you can 
    My research interests include: *IA*, *IoT*, *Big Data*, *Cloud* and any kind of *Distributed System*. 
    
    See my [Google Academic](https://scholar.google.es/citations?user=RcnJ168AAAAJ&hl=en) profile.
-   
-   **Supervised Theses**:
-   
+      
    *P.h.D. Theses*
   
    * [Mikel Cañizo](https://scholar.google.es/citations?user=RCuu9XUAAAAJ&hl=es): Large-Scale Anomaly Detection and Diagnosis on Industrial Heterogeneous Multi-Sensor Systems Using Deep Learning. Thesis co-supervised with the collaboration of [Enrique Onieva](https://scholar.google.es/citations?hl=es&user=2ww8fYYAAAAJ) from the University of Deusto. 2020
@@ -57,9 +55,7 @@ about_content: | # this will include new lines to allow paragraphs here you can 
    * Asier Gomez: Applied DevOps to monitor a Big Data platform (International University of La Rioja), 2018.
    * [Julen Balzategui](https://scholar.google.es/citations?user=ZOFmhl8AAAAJ&hl=es&authuser=1&oi=ao): Advanced Image Data Analytics (Mondragon University), 2018.
    * Guillermo Lapuente: Enabling Real-time Data Analytics for IIoT in Multi-Cloud Environments (University of Basque Country), 2017.
-   
-   Moreover, I have supervised different master thesis on topics such as Big Data and Machine Learning. 
-   
+      
 # Projects Section
 # projects_title: Research #(Use this to override about experience section title)
 
