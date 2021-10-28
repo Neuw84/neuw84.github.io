@@ -24,7 +24,7 @@ linkedin_username: acmanjon
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/me.jpg
 about_content: | # this will include new lines to allow paragraphs here you can use all markdown features!
-  I am a technology enthusiast that loves to learn and work with the latest technologies. I am currently leading the Data Analytics and Artificial Intelligence team at [Ikerlan](https://www.ikerlan.es/).
+  I am a technology enthusiast that loves to learn and work with the latest technologies. I am currently working as PSA at Amazon Web Services specialized in Data Analytics.
 
   Technologies that I use everyday:
   <div class="col-xs-12">
