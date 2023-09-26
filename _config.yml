@@ -97,5 +97,5 @@ plugins:
  - jekyll-seo-tag
 
 # Google Analytics
-google_analytics: UA-132400196-1
+#google_analytics: UA-132400196-1
 
