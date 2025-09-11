@@ -2,4 +2,4 @@
 
 https://acmanjon.es 
 
-Built using GitHub pages. Theme based on https://github.com/sproogen/modern-resume-theme 
+Built using GitHub pages. 
