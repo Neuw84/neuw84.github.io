@@ -7,18 +7,20 @@
     <meta name="description" content="Ángel Conde Manjón — Senior Partner Solutions Architect (Data & AI) helping partners build on AWS analytics, Spark, Iceberg, EMR Serverless, and GenAI grounded in your data." />
     <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
     <!-- Tailwind via CDN -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-      tailwind.config = {
+        <script type="module">
+      import { install } from "https://cdn.jsdelivr.net/npm/@twind/core@1.1.3/dist/twind.mjs";
+      import presetTailwind from "https://cdn.jsdelivr.net/npm/@twind/preset-tailwind@1.1.4/dist/preset-tailwind.mjs";
+      install({
+        presets: [presetTailwind()],
+        darkMode: 'media',
         theme: {
           extend: {
-            colors: {
-              brand: { DEFAULT: '#2563eb', dark: '#1d4ed8' },
-            },
-          },
-        },
-      };
+            colors: { brand: { DEFAULT: '#2563eb', dark:'#1d4ed8' } }
+          }
+        }
+      });
     </script>
+
     <style>
       /* glassy panels and gradients */
       .glass { backdrop-filter: blur(8px); background: rgba(255,255,255,0.06); }
